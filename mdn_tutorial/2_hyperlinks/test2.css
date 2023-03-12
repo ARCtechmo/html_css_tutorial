@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+a,
+p,
+img {
+  margin: 5px 5px;
+}

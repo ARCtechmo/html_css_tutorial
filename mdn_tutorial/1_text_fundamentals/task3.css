@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+strong {
+  margin-bottom: 20px;
+  color: purple;
+}
+p {
+  font-size: x-large;
+}
